@@ -1,9 +1,9 @@
 ## Hello World App
 
 ### App Description
-This app greets the user with my name. There are three bottons on the bottom, one to change color of the text, one to chamge color of the background, and one to change the text being displayed. Clicking the background resets all colors and text to the default.
+This app greets the user with my name. There are three buttons on the bottom, one to change color of the text, one to change color of the background, and one to change the text being displayed. Clicking the background resets all colors and text to the default.
 
-### App Walk-though
+### App Walk-through
 
 <img src="http://g.recordit.co/KRfLQs5sb1.gif" width=200><br>
 
